@@ -1,0 +1,17 @@
+db.posts.insertMany([
+{
+    name: "Burger",
+    inventory: 10,
+    price: 6.25
+},
+{
+    name: "Coffee",
+    inventory: 12,
+    price: 2.5
+},
+{
+    name: "Sandwhich",
+    inventory: 20,
+    price: 4.25
+},
+])

@@ -1,0 +1,23 @@
+===== Information about the build process: =====
+Build was run at 13/09/2019 on host 'VIGDIS72'
+
+Build was done on  Windows-10.0.14393 using AMD64
+Build was done using cmake 3.8.2
+
+Build was done using MySQL 8.0.18
+===== Compiler / generator used: =====
+Visual Studio 15 2017 Win64
+
+===== Feature flags used: =====
+File 'CMakeCache.txt' is not yet found.
+
+===== Compiler flags used: =====
+Compiler: MSVC 19.15.26730.0
+COMPILE_DEFINITIONS: 
+CMAKE_C_FLAGS: /DWIN32 /D_WINDOWS /W3
+CMAKE_CXX_FLAGS: /DWIN32 /D_WINDOWS /W3 /GR /EHsc /TP
+CMAKE_C_FLAGS_DEBUG: /MDd /Zi /Ob0 /Od /RTC1
+CMAKE_CXX_FLAGS_DEBUG: /MDd /Zi /Ob0 /Od /RTC1
+CMAKE_C_FLAGS_RELWITHDEBINFO: /MD /Zi /O2 /Ob1 /DNDEBUG -DDBUG_OFF 
+CMAKE_CXX_FLAGS_RELWITHDEBINFO: /MD /Zi /O2 /Ob1 /DNDEBUG -DDBUG_OFF 
+===== EOF =====
